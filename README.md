@@ -19,7 +19,7 @@ Aparecerá um robozinho ao lado.
 
 2. Abre o terminal e navegue até o diretório **meu_pacote**
 ```python
-cd meu_pacote
+cd mapa/ros2_workspace/src/meu_pacote
 ```
 
 3. Execute o comando para construção e compilação:
@@ -44,7 +44,7 @@ ros2 launch meu_pacote test_launch.py
 Ambiente de início mostrava sucesso, contudo foi denotado erros constantemente de aparições e falhas no Rviz ao tentar compilar meu pacote. Novamente o mapa não tinha aparecido, sumiu. Mesmo já configurado o arquivo **burger.yaml** para **"robot_model_type: "nav2_amcl::DifferentialMotionModel"**. 
 Veja a imagem a seguir do setup burger.yaml:
 
-![burguer.yaml](https://drive.google.com/file/d/1E-D79ARgFwla_QxDMLm0V2z0Og2OGfVX/view?usp=sharing)
+link da imagem: https://drive.google.com/file/d/1E-D79ARgFwla_QxDMLm0V2z0Og2OGfVX/view?usp=sharing
 
 O script funciona. Contudo, o ambiente de execução, não. 
 Veja o vídeo a seguir de como foi executado e as também suas falhas. 
