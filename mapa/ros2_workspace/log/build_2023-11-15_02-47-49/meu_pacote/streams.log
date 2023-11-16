@@ -1,0 +1,32 @@
+[1.447s] Invoking command in '/home/alyssoncastro/Scripts/mapa/ros2_workspace/src/meu_pacote': PYTHONPATH=/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/prefix_override:/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/meu_pacote build --build-base /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build install --record /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log --single-version-externally-managed
+[2.059s] running egg_info
+[2.061s] writing ../../build/meu_pacote/meu_pacote.egg-info/PKG-INFO
+[2.063s] writing dependency_links to ../../build/meu_pacote/meu_pacote.egg-info/dependency_links.txt
+[2.063s] writing entry points to ../../build/meu_pacote/meu_pacote.egg-info/entry_points.txt
+[2.064s] writing requirements to ../../build/meu_pacote/meu_pacote.egg-info/requires.txt
+[2.064s] writing top-level names to ../../build/meu_pacote/meu_pacote.egg-info/top_level.txt
+[2.066s] reading manifest file '../../build/meu_pacote/meu_pacote.egg-info/SOURCES.txt'
+[2.069s] writing manifest file '../../build/meu_pacote/meu_pacote.egg-info/SOURCES.txt'
+[2.070s] running build
+[2.070s] running build_py
+[2.070s] copying meu_pacote/__init__.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote
+[2.070s] copying meu_pacote/my_node.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote
+[2.070s] running install
+[2.071s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.071s]   warnings.warn(
+[2.071s] running install_lib
+[2.072s] copying /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote/__init__.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote
+[2.073s] copying /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote/my_node.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote
+[2.073s] byte-compiling /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote/__init__.py to __init__.cpython-310.pyc
+[2.073s] byte-compiling /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote/my_node.py to my_node.cpython-310.pyc
+[2.074s] running install_data
+[2.075s] copying resource/meu_pacote -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/ament_index/resource_index/packages
+[2.075s] copying package.xml -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/meu_pacote
+[2.076s] creating /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/meu_pacote/launch
+[2.076s] running install_egg_info
+[2.079s] removing '/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote-0.0.0-py3.10.egg-info' (and everything under it)
+[2.079s] Copying ../../build/meu_pacote/meu_pacote.egg-info to /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote-0.0.0-py3.10.egg-info
+[2.080s] running install_scripts
+[2.122s] Installing my_node script to /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/meu_pacote
+[2.122s] writing list of installed files to '/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log'
+[2.207s] Invoked command in '/home/alyssoncastro/Scripts/mapa/ros2_workspace/src/meu_pacote' returned '0': PYTHONPATH=/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/prefix_override:/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/meu_pacote build --build-base /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build install --record /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log --single-version-externally-managed

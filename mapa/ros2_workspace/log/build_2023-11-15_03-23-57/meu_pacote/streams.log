@@ -1,0 +1,27 @@
+[1.515s] Invoking command in '/home/alyssoncastro/Scripts/mapa/ros2_workspace/src/meu_pacote': PYTHONPATH=/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/prefix_override:/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/meu_pacote build --build-base /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build install --record /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log --single-version-externally-managed
+[1.918s] running egg_info
+[1.919s] writing ../../build/meu_pacote/meu_pacote.egg-info/PKG-INFO
+[1.921s] writing dependency_links to ../../build/meu_pacote/meu_pacote.egg-info/dependency_links.txt
+[1.921s] writing entry points to ../../build/meu_pacote/meu_pacote.egg-info/entry_points.txt
+[1.921s] writing requirements to ../../build/meu_pacote/meu_pacote.egg-info/requires.txt
+[1.921s] writing top-level names to ../../build/meu_pacote/meu_pacote.egg-info/top_level.txt
+[1.925s] reading manifest file '../../build/meu_pacote/meu_pacote.egg-info/SOURCES.txt'
+[1.927s] writing manifest file '../../build/meu_pacote/meu_pacote.egg-info/SOURCES.txt'
+[1.928s] running build
+[1.928s] running build_py
+[1.928s] copying meu_pacote/my_script.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote
+[1.928s] running install
+[1.928s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.929s]   warnings.warn(
+[1.929s] running install_lib
+[1.930s] copying /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote/my_script.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote
+[1.931s] byte-compiling /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote/my_script.py to my_script.cpython-310.pyc
+[1.931s] running install_data
+[1.932s] copying launch/test_launch.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/meu_pacote/launch
+[1.932s] running install_egg_info
+[1.935s] removing '/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote-0.0.0-py3.10.egg-info' (and everything under it)
+[1.936s] Copying ../../build/meu_pacote/meu_pacote.egg-info to /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote-0.0.0-py3.10.egg-info
+[1.937s] running install_scripts
+[1.975s] Installing my_node script to /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/meu_pacote
+[1.976s] writing list of installed files to '/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log'
+[2.085s] Invoked command in '/home/alyssoncastro/Scripts/mapa/ros2_workspace/src/meu_pacote' returned '0': PYTHONPATH=/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/prefix_override:/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/meu_pacote build --build-base /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build install --record /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log --single-version-externally-managed

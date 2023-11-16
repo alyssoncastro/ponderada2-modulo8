@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/meu_pacote/meu_pacote.egg-info/PKG-INFO
+writing dependency_links to ../../build/meu_pacote/meu_pacote.egg-info/dependency_links.txt
+writing entry points to ../../build/meu_pacote/meu_pacote.egg-info/entry_points.txt
+writing requirements to ../../build/meu_pacote/meu_pacote.egg-info/requires.txt
+writing top-level names to ../../build/meu_pacote/meu_pacote.egg-info/top_level.txt
+reading manifest file '../../build/meu_pacote/meu_pacote.egg-info/SOURCES.txt'
+writing manifest file '../../build/meu_pacote/meu_pacote.egg-info/SOURCES.txt'
+running build
+running build_py
+copying meu_pacote/__init__.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote
+copying meu_pacote/my_node.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote
+running install
+running install_lib
+copying /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote/__init__.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote
+copying /home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/build/lib/meu_pacote/my_node.py -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote
+byte-compiling /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote/my_node.py to my_node.cpython-310.pyc
+running install_data
+copying resource/meu_pacote -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/ament_index/resource_index/packages
+copying package.xml -> /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/meu_pacote
+creating /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/share/meu_pacote/launch
+running install_egg_info
+removing '/home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/meu_pacote/meu_pacote.egg-info to /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/python3.10/site-packages/meu_pacote-0.0.0-py3.10.egg-info
+running install_scripts
+Installing my_node script to /home/alyssoncastro/Scripts/mapa/ros2_workspace/install/meu_pacote/lib/meu_pacote
+writing list of installed files to '/home/alyssoncastro/Scripts/mapa/ros2_workspace/build/meu_pacote/install.log'
